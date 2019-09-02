@@ -1,4 +1,4 @@
-# vue_todo
+# A Simple Vue Starter File
 
 ## Project setup
 ```
